@@ -1,0 +1,16 @@
+{
+  "name": "sahyata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Nikhil",
+  "license": "ISC",
+  "homepage": "https://sahyata.org",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
